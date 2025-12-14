@@ -66,8 +66,6 @@ SFH / DFH is a **single, deterministic machine entry point** published at:
 
 https://yourdomain.com/.well-known/stack
 
-yaml
-Copy code
 
 That file is:
 - machine-readable
@@ -177,9 +175,6 @@ The relationship is **one-way**:
 
 SFH / DFH → Main Website
 
-yaml
-Copy code
-
 AI starts at the stack.  
 Humans start at the homepage.
 
@@ -283,6 +278,4 @@ This is infrastructure.
 This is inevitable.
 This is how AI stops guessing.
 
-yaml
-Copy code
 
