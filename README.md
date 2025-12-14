@@ -6,7 +6,7 @@
 It is not for humans.  
 It is a machine-readable index so AI can navigate the web without guessing.**
 
-Think of it as **street signs and an address system for AI**.
+Think of it as **street signs and a GPS system for AI**.
 
 Humans browse pages.  
 Machines need **coordinates**.
